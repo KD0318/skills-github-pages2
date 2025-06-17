@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Welcome to KD0318 blog!
 ---
